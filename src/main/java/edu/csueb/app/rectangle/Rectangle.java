@@ -31,7 +31,6 @@ public class Rectangle {
         return "Width: " + this.width + " Height: " + this.height + " getPerimeter -> " + getPerimeter();
     }
 }
-
 /* *
  * 9.1 (The rectangle class)
  * Following the example of the Circle class in Section 9.2,

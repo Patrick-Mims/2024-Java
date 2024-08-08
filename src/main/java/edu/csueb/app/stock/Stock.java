@@ -21,6 +21,7 @@ public class Stock {
         return "ticker : " + this.ticker + " height: " + this.name + " getChangePercent -> " + getChangePercent();
     }
 }
+
 /* *
     9.2 (The Stock class)
     Following the example of the Circle class in Section 9.2, design a class named Stock that contains:
